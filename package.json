@@ -1,0 +1,38 @@
+{
+  "name": "api_covid_19",
+  "version": "1.0.0",
+  "description": "Dados sobre covid-19",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agostinhoramos/api_covid_19.git"
+  },
+  "keywords": [
+    "covid-19",
+    "api"
+  ],
+  "author": "Agostinho Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agostinhoramos/api_covid_19/issues"
+  },
+  "homepage": "https://github.com/agostinhoramos/api_covid_19#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "dotenv": "^14.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-ejs-layouts": "^2.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.7",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
