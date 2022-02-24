@@ -1,849 +1,849 @@
 [
-    {
-      "DATA": "16-06",
-      "Total Infetados": 240,
-      "Recuperados": 217,
-      "Óbitos": 16,
-      "Total Ativos": 7
-    },
-    {
-      "DATA": "26-06",
-      "Total Infetados": 241,
-      "Recuperados": 219,
-      "Óbitos": 16,
-      "Total Ativos": 6
-    },
-    {
-      "DATA": "03-07",
-      "Total Infetados": 247,
-      "Recuperados": 222,
-      "Óbitos": 16,
-      "Total Ativos": 9
-    },
-    {
-      "DATA": "11-07",
-      "Total Infetados": 287,
-      "Recuperados": 226,
-      "Óbitos": 16,
-      "Total Ativos": 45
-    },
-    {
-      "DATA": "13-07",
-      "Total Infetados": 288,
-      "Recuperados": 226,
-      "Óbitos": 16,
-      "Total Ativos": 46
-    },
-    {
-      "DATA": "15-07",
-      "Total Infetados": 292,
-      "Recuperados": 226,
-      "Óbitos": 16,
-      "Total Ativos": 50
-    },
-    {
-      "DATA": "17-07",
-      "Total Infetados": 295,
-      "Recuperados": 227,
-      "Óbitos": 16,
-      "Total Ativos": 52
-    },
-    {
-      "DATA": "24-07",
-      "Total Infetados": 298,
-      "Recuperados": 229,
-      "Óbitos": 16,
-      "Total Ativos": 53
-    },
-    {
-      "DATA": "31-07",
-      "Total Infetados": 301,
-      "Recuperados": 250,
-      "Óbitos": 16,
-      "Total Ativos": 35
-    },
-    {
-      "DATA": "07-08",
-      "Total Infetados": 305,
-      "Recuperados": 262,
-      "Óbitos": 16,
-      "Total Ativos": 27
-    },
-    {
-      "DATA": "12-08",
-      "Total Infetados": 307,
-      "Recuperados": 268,
-      "Óbitos": 16,
-      "Total Ativos": 23
-    },
-    {
-      "DATA": "21-08",
-      "Total Infetados": 307,
-      "Recuperados": 272,
-      "Óbitos": 16,
-      "Total Ativos": 19
-    },
-    {
-      "DATA": "21-08",
-      "Total Infetados": 314,
-      "Recuperados": 278,
-      "Óbitos": 16,
-      "Total Ativos": 20
-    },
-    {
-      "DATA": "28-08",
-      "Total Infetados": 318,
-      "Recuperados": 286,
-      "Óbitos": 16,
-      "Total Ativos": 16
-    },
-    {
-      "DATA": "04-09",
-      "Total Infetados": 329,
-      "Recuperados": 289,
-      "Óbitos": 16,
-      "Total Ativos": 24
-    },
-    {
-      "DATA": "07-09",
-      "Total Infetados": 337,
-      "Recuperados": 290,
-      "Óbitos": 16,
-      "Total Ativos": 31
-    },
-    {
-      "DATA": "11-09",
-      "Total Infetados": 346,
-      "Recuperados": 296,
-      "Óbitos": 16,
-      "Total Ativos": 34
-    },
-    {
-      "DATA": "18-09",
-      "Total Infetados": 397,
-      "Recuperados": 301,
-      "Óbitos": 17,
-      "Total Ativos": 79
-    },
-    {
-      "DATA": "25-09",
-      "Total Infetados": 424,
-      "Recuperados": 304,
-      "Óbitos": 17,
-      "Total Ativos": 103
-    },
-    {
-      "DATA": "02-10",
-      "Total Infetados": 448,
-      "Recuperados": 322,
-      "Óbitos": 18,
-      "Total Ativos": 108
-    },
-    {
-      "DATA": "09-10",
-      "Total Infetados": 513,
-      "Recuperados": 333,
-      "Óbitos": 19,
-      "Total Ativos": 161
-    },
-    {
-      "DATA": "14-10",
-      "Total Infetados": 595,
-      "Recuperados": 366,
-      "Óbitos": 20,
-      "Total Ativos": 209
-    },
-    {
-      "DATA": "16-10",
-      "Total Infetados": 628,
-      "Recuperados": 372,
-      "Óbitos": 20,
-      "Total Ativos": 236
-    },
-    {
-      "DATA": "21-10",
-      "Total Infetados": 783,
-      "Recuperados": 419,
-      "Óbitos": 22,
-      "Total Ativos": 342
-    },
-    {
-      "DATA": "23-10",
-      "Total Infetados": 867,
-      "Recuperados": 424,
-      "Óbitos": 25,
-      "Total Ativos": 418
-    },
-    {
-      "DATA": "29-10",
-      "Total Infetados": 1115,
-      "Recuperados": 465,
-      "Óbitos": 30,
-      "Total Ativos": 620
-    },
-    {
-      "DATA": "03-11",
-      "Total Infetados": 1469,
-      "Recuperados": 625,
-      "Óbitos": 34,
-      "Total Ativos": 810
-    },
-    {
-      "DATA": "06-11",
-      "Total Infetados": 1646,
-      "Recuperados": 726,
-      "Óbitos": 37,
-      "Total Ativos": 883
-    },
-    {
-      "DATA": "13-18",
-      "Total Infetados": 2292,
-      "Recuperados": 960,
-      "Óbitos": 43,
-      "Total Ativos": 1289
-    },
-    {
-      "DATA": "18-11",
-      "Total Infetados": 2586,
-      "Recuperados": 1439,
-      "Óbitos": 54,
-      "Total Ativos": 1093
-    },
-    {
-      "DATA": "20-11",
-      "Total Infetados": 2728,
-      "Recuperados": 1448,
-      "Óbitos": 60,
-      "Total Ativos": 1220
-    },
-    {
-      "DATA": "24-11",
-      "Total Infetados": 2954,
-      "Recuperados": 1628,
-      "Óbitos": 70,
-      "Total Ativos": 1256
-    },
-    {
-      "DATA": "27-11",
-      "Total Infetados": 3209,
-      "Recuperados": 1772,
-      "Óbitos": 73,
-      "Total Ativos": 1364
-    },
-    {
-      "DATA": "01-12",
-      "Total Infetados": 3357,
-      "Recuperados": 1814,
-      "Óbitos": 80,
-      "Total Ativos": 1463
-    },
-    {
-      "DATA": "04-12",
-      "Total Infetados": 3462,
-      "Recuperados": 2543,
-      "Óbitos": 86,
-      "Total Ativos": 833
-    },
-    {
-      "DATA": "08-12",
-      "Total Infetados": 3721,
-      "Recuperados": 2763,
-      "Óbitos": 91,
-      "Total Ativos": 867
-    },
-    {
-      "DATA": "11-12",
-      "Total Infetados": 3951,
-      "Recuperados": 2908,
-      "Óbitos": 99,
-      "Total Ativos": 944
-    },
-    {
-      "DATA": "16-12",
-      "Total Infetados": 4142,
-      "Recuperados": 3115,
-      "Óbitos": 107,
-      "Total Ativos": 920
-    },
-    {
-      "DATA": "18-12",
-      "Total Infetados": 4394,
-      "Recuperados": 3382,
-      "Óbitos": 113,
-      "Total Ativos": 899
-    },
-    {
-      "DATA": "22-12",
-      "Total Infetados": 4570,
-      "Recuperados": 3546,
-      "Óbitos": 121,
-      "Total Ativos": 903
-    },
-    {
-      "DATA": "28-12",
-      "Total Infetados": 4850,
-      "Recuperados": 3874,
-      "Óbitos": 131,
-      "Total Ativos": 845
-    },
-    {
-      "DATA": "06-01",
-      "Total Infetados": 5932,
-      "Recuperados": 4275,
-      "Óbitos": 149,
-      "Total Ativos": 1508
-    },
-    {
-      "DATA": "08-01",
-      "Total Infetados": 6510,
-      "Recuperados": 4470,
-      "Óbitos": 150,
-      "Total Ativos": 1890
-    },
-    {
-      "DATA": "12-01",
-      "Total Infetados": 7005,
-      "Recuperados": 4522,
-      "Óbitos": 167,
-      "Total Ativos": 2316
-    },
-    {
-      "DATA": "15-01",
-      "Total Infetados": 7636,
-      "Recuperados": 4626,
-      "Óbitos": 180,
-      "Total Ativos": 2830
-    },
-    {
-      "DATA": "19-01",
-      "Total Infetados": 8202,
-      "Recuperados": 4793,
-      "Óbitos": 194,
-      "Total Ativos": 3215
-    },
-    {
-      "DATA": "25-01",
-      "Total Infetados": 9528,
-      "Recuperados": 5421,
-      "Óbitos": 218,
-      "Total Ativos": 3889
-    },
-    {
-      "DATA": "01-02",
-      "Total Infetados": 10699,
-      "Recuperados": 6598,
-      "Óbitos": 244,
-      "Total Ativos": 3857
-    },
-    {
-      "DATA": "05-02",
-      "Total Infetados": 11102,
-      "Recuperados": 7230,
-      "Óbitos": 265,
-      "Total Ativos": 3607
-    },
-    {
-      "DATA": "09-02",
-      "Total Infetados": 11284,
-      "Recuperados": 7920,
-      "Óbitos": 288,
-      "Total Ativos": 3076
-    },
-    {
-      "DATA": "12-02",
-      "Total Infetados": 11393,
-      "Recuperados": 9041,
-      "Óbitos": 295,
-      "Total Ativos": 2057
-    },
-    {
-      "DATA": "16-02",
-      "Total Infetados": 11480,
-      "Recuperados": 9980,
-      "Óbitos": 303,
-      "Total Ativos": 1197
-    },
-    {
-      "DATA": "19-02",
-      "Total Infetados": 11588,
-      "Recuperados": 10703,
-      "Óbitos": 308,
-      "Total Ativos": 577
-    },
-    {
-      "DATA": "23-02",
-      "Total Infetados": 11644,
-      "Recuperados": 10879,
-      "Óbitos": 315,
-      "Total Ativos": 450
-    },
-    {
-      "DATA": "26-02",
-      "Total Infetados": 11675,
-      "Recuperados": 11103,
-      "Óbitos": 317,
-      "Total Ativos": 255
-    },
-    {
-      "DATA": "02-03",
-      "Total Infetados": 11694,
-      "Recuperados": 11194,
-      "Óbitos": 323,
-      "Total Ativos": 177
-    },
-    {
-      "DATA": "05-03",
-      "Total Infetados": 11711,
-      "Recuperados": 11267,
-      "Óbitos": 326,
-      "Total Ativos": 118
-    },
-    {
-      "DATA": "09-03",
-      "Total Infetados": 11732,
-      "Recuperados": 11326,
-      "Óbitos": 330,
-      "Total Ativos": 76
-    },
-    {
-      "DATA": "12-03",
-      "Total Infetados": 11757,
-      "Recuperados": 11338,
-      "Óbitos": 333,
-      "Total Ativos": 86
-    },
-    {
-      "DATA": "17-03",
-      "Total Infetados": 11773,
-      "Recuperados": 11355,
-      "Óbitos": 334,
-      "Total Ativos": 84
-    },
-    {
-      "DATA": "23-03",
-      "Total Infetados": 11799,
-      "Recuperados": 11398,
-      "Óbitos": 337,
-      "Total Ativos": 64
-    },
-    {
-      "DATA": "26-03",
-      "Total Infetados": 11808,
-      "Recuperados": 11420,
-      "Óbitos": 338,
-      "Total Ativos": 50
-    },
-    {
-      "DATA": "30-03",
-      "Total Infetados": 11808,
-      "Recuperados": 11433,
-      "Óbitos": 339,
-      "Total Ativos": 36
-    },
-    {
-      "DATA": "13-04",
-      "Total Infetados": 11824,
-      "Recuperados": 11464,
-      "Óbitos": 340,
-      "Total Ativos": 20
-    },
-    {
-      "DATA": "16-04",
-      "Total Infetados": 11834,
-      "Recuperados": 11465,
-      "Óbitos": 340,
-      "Total Ativos": 29
-    },
-    {
-      "DATA": "24-04",
-      "Total Infetados": 11860,
-      "Recuperados": 11478,
-      "Óbitos": 341,
-      "Total Ativos": 40
-    },
-    {
-      "DATA": "30-04",
-      "Total Infetados": 11862,
-      "Recuperados": 11492,
-      "Óbitos": 341,
-      "Total Ativos": 28
-    },
-    {
-      "DATA": "07-05",
-      "Total Infetados": 11871,
-      "Recuperados": 11513,
-      "Óbitos": 341,
-      "Total Ativos": 16
-    },
-    {
-      "DATA": "11-05",
-      "Total Infetados": 11874,
-      "Recuperados": 11516,
-      "Óbitos": 342,
-      "Total Ativos": 15
-    },
-    {
-      "DATA": "14-05",
-      "Total Infetados": 11882,
-      "Recuperados": 11517,
-      "Óbitos": 342,
-      "Total Ativos": 22
-    },
-    {
-      "DATA": "18-05",
-      "Total Infetados": 11906,
-      "Recuperados": 11519,
-      "Óbitos": 342,
-      "Total Ativos": 44
-    },
-    {
-      "DATA": "21-05",
-      "Total Infetados": 11924,
-      "Recuperados": 11526,
-      "Óbitos": 342,
-      "Total Ativos": 55
-    },
-    {
-      "DATA": "25-05",
-      "Total Infetados": 11932,
-      "Recuperados": 11537,
-      "Óbitos": 343,
-      "Total Ativos": 51
-    },
-    {
-      "DATA": "02-06",
-      "Total Infetados": 11949,
-      "Recuperados": 11563,
-      "Óbitos": 344,
-      "Total Ativos": 41
-    },
-    {
-      "DATA": "09-06",
-      "Total Infetados": 11962,
-      "Recuperados": 11585,
-      "Óbitos": 345,
-      "Total Ativos": 31
-    },
-    {
-      "DATA": "15-06",
-      "Total Infetados": 12001,
-      "Recuperados": 11606,
-      "Óbitos": 345,
-      "Total Ativos": 49
-    },
-    {
-      "DATA": "18-06",
-      "Total Infetados": 12017,
-      "Recuperados": 11611,
-      "Óbitos": 345,
-      "Total Ativos": 60
-    },
-    {
-      "DATA": "22-06",
-      "Total Infetados": 12033,
-      "Recuperados": 11627,
-      "Óbitos": 345,
-      "Total Ativos": 60
-    },
-    {
-      "DATA": "29-06",
-      "Total Infetados": 12058,
-      "Recuperados": 11646,
-      "Óbitos": 345,
-      "Total Ativos": 66
-    },
-    {
-      "DATA": "06-07",
-      "Total Infetados": 12199,
-      "Recuperados": 11680,
-      "Óbitos": 345,
-      "Total Ativos": 173
-    },
-    {
-      "DATA": "15-07-2021",
-      "Total Infetados": 12345,
-      "Recuperados": 11761,
-      "Óbitos": 346,
-      "Total Ativos": 237
-    },
-    {
-      "DATA": "20-07-2021",
-      "Total Infetados": 12444,
-      "Recuperados": 11844,
-      "Óbitos": 346,
-      "Total Ativos": 253
-    },
-    {
-      "DATA": "23-07-2021",
-      "Total Infetados": 12502,
-      "Recuperados": 11915,
-      "Óbitos": 346,
-      "Total Ativos": 240
-    },
-    {
-      "DATA": "27-07-2021",
-      "Total Infetados": 12546,
-      "Recuperados": 12004,
-      "Óbitos": 347,
-      "Total Ativos": 194
-    },
-    {
-      "DATA": "30-07-2021",
-      "Total Infetados": 12598,
-      "Recuperados": 12044,
-      "Óbitos": 347,
-      "Total Ativos": 206
-    },
-    {
-      "DATA": "03-08-2021",
-      "Total Infetados": 12640,
-      "Recuperados": 12118,
-      "Óbitos": 347,
-      "Total Ativos": 174
-    },
-    {
-      "DATA": "10-08-2021",
-      "Total Infetados": 12704,
-      "Recuperados": 12246,
-      "Óbitos": 347,
-      "Total Ativos": 110
-    },
-    {
-      "DATA": "17-08-2021",
-      "Total Infetados": 12814,
-      "Recuperados": 12323,
-      "Óbitos": 347,
-      "Total Ativos": 143
-    },
-    {
-      "DATA": "20-08-2021",
-      "Total Infetados": 12865,
-      "Recuperados": 12356,
-      "Óbitos": 347,
-      "Total Ativos": 161
-    },
-    {
-      "DATA": "24-08-2021",
-      "Total Infetados": 12930,
-      "Recuperados": 12398,
-      "Óbitos": 347,
-      "Total Ativos": 184
-    },
-    {
-      "DATA": "01-09-2021",
-      "Total Infetados": 13067,
-      "Recuperados": 12502,
-      "Óbitos": 349,
-      "Total Ativos": 215
-    },
-    {
-      "DATA": "07-09-2021",
-      "Total Infetados": 13160,
-      "Recuperados": 12628,
-      "Óbitos": 351,
-      "Total Ativos": 180
-    },
-    {
-      "DATA": "10-09-2021",
-      "Total Infetados": 13229,
-      "Recuperados": 12671,
-      "Óbitos": 352,
-      "Total Ativos": 205
-    },
-    {
-      "DATA": "14-09-2021",
-      "Total Infetados": 13298,
-      "Recuperados": 12729,
-      "Óbitos": 354,
-      "Total Ativos": 214
-    },
-    {
-      "DATA": "21-09-2021",
-      "Total Infetados": 13367,
-      "Recuperados": 12829,
-      "Óbitos": 356,
-      "Total Ativos": 181
-    },
-    {
-      "DATA": "27-09-2021",
-      "Total Infetados": 13382,
-      "Recuperados": 12857,
-      "Óbitos": 357,
-      "Total Ativos": 167
-    },
-    {
-      "DATA": "29-09-2021",
-      "Total Infetados": 13409,
-      "Recuperados": 12917,
-      "Óbitos": 357,
-      "Total Ativos": 134
-    },
-    {
-      "DATA": "01-10-2021",
-      "Total Infetados": 13426,
-      "Recuperados": 12965,
-      "Óbitos": 357,
-      "Total Ativos": 102
-    },
-    {
-      "DATA": "04-10-2021",
-      "Total Infetados": 13440,
-      "Recuperados": 12992,
-      "Óbitos": 357,
-      "Total Ativos": 90
-    },
-    {
-      "DATA": "12-10-2021",
-      "Total Infetados": 13515,
-      "Recuperados": 13048,
-      "Óbitos": 357,
-      "Total Ativos": 109
-    },
-    {
-      "DATA": "15-10-2021",
-      "Total Infetados": 13569,
-      "Recuperados": 13076,
-      "Óbitos": 359,
-      "Total Ativos": 133
-    },
-    {
-      "DATA": "19-10-2021",
-      "Total Infetados": 13628,
-      "Recuperados": 13090,
-      "Óbitos": 360,
-      "Total Ativos": 177
-    },
-    {
-      "DATA": "22-10-2021",
-      "Total Infetados": 13681,
-      "Recuperados": 13131,
-      "Óbitos": 361,
-      "Total Ativos": 188
-    },
-    {
-      "DATA": "26-10-2021",
-      "Total Infetados": 13734,
-      "Recuperados": 13169,
-      "Óbitos": 361,
-      "Total Ativos": 203
-    },
-    {
-      "DATA": "09-11-2021",
-      "Total Infetados": 13928,
-      "Recuperados": 13364,
-      "Óbitos": 367,
-      "Total Ativos": 196
-    },
-    {
-      "DATA": "17-11-2021",
-      "Total Infetados": 14095,
-      "Recuperados": 13516,
-      "Óbitos": 370,
-      "Total Ativos": 208
-    },
-    {
-      "DATA": "19-11-2021",
-      "Total Infetados": 14146,
-      "Recuperados": 13575,
-      "Óbitos": 371,
-      "Total Ativos": 199
-    },
-    {
-      "DATA": "23-11-2021",
-      "Total Infetados": 14241,
-      "Recuperados": 13668,
-      "Óbitos": 371,
-      "Total Ativos": 201
-    },
-    {
-      "DATA": "26-11-2021",
-      "Total Infetados": 14364,
-      "Recuperados": 13692,
-      "Óbitos": 372,
-      "Total Ativos": 299
-    },
-    {
-      "DATA": "30-11-2021",
-      "Total Infetados": 14553,
-      "Recuperados": 13777,
-      "Óbitos": 373,
-      "Total Ativos": 402
-    },
-    {
-      "DATA": "07-12-2021",
-      "Total Infetados": 15109,
-      "Recuperados": 14000,
-      "Óbitos": 375,
-      "Total Ativos": 733
-    },
-    {
-      "DATA": "10-12-2021",
-      "Total Infetados": 15411,
-      "Recuperados": 14159,
-      "Óbitos": 376,
-      "Total Ativos": 875
-    },
-    {
-      "DATA": "15-12-2021",
-      "Total Infetados": 15751,
-      "Recuperados": 14449,
-      "Óbitos": 378,
-      "Total Ativos": 923
-    },
-    {
-      "DATA": "22-12-2021",
-      "Total Infetados": 16200,
-      "Recuperados": 15034,
-      "Óbitos": 381,
-      "Total Ativos": 784
-    },
-    {
-      "DATA": "29-12-2021",
-      "Total Infetados": 16848,
-      "Recuperados": 15583,
-      "Óbitos": 386,
-      "Total Ativos": 878
-    },
-    {
-      "DATA": "30-12-2021",
-      "Total Infetados": 17096,
-      "Recuperados": 15653,
-      "Óbitos": 386,
-      "Total Ativos": 1056
-    },
-    {
-      "DATA": "05-01-2022",
-      "Total Infetados": 17837,
-      "Recuperados": 15686,
-      "Óbitos": 388,
-      "Total Ativos": 1762
-    },
-    {
-      "DATA": "11-01-2022",
-      "Total Infetados": 19477,
-      "Recuperados": 16908,
-      "Óbitos": 390,
-      "Total Ativos": 2178
-    },
-    {
-      "DATA": "19-01-2022",
-      "Total Infetados": 22322,
-      "Recuperados": 19440,
-      "Óbitos": 394,
-      "Total Ativos": 2487
-    },
-    {
-      "DATA": "21-01-2022",
-      "Total Infetados": 23532,
-      "Recuperados": 20033,
-      "Óbitos": 394,
-      "Total Ativos": 3104
-    },
-    {
-      "DATA": "04-02-2022",
-      "Total Infetados": 30059,
-      "Recuperados": 25760,
-      "Óbitos": 398,
-      "Total Ativos": 3900
-    }
-   ]
+  {
+    "DATA": "16-06",
+    "Total Infetados": 240,
+    "Recuperados": 217,
+    "Óbitos": 16,
+    "Total Ativos": 7
+  },
+  {
+    "DATA": "26-06",
+    "Total Infetados": 241,
+    "Recuperados": 219,
+    "Óbitos": 16,
+    "Total Ativos": 6
+  },
+  {
+    "DATA": "03-07",
+    "Total Infetados": 247,
+    "Recuperados": 222,
+    "Óbitos": 16,
+    "Total Ativos": 9
+  },
+  {
+    "DATA": "11-07",
+    "Total Infetados": 287,
+    "Recuperados": 226,
+    "Óbitos": 16,
+    "Total Ativos": 45
+  },
+  {
+    "DATA": "13-07",
+    "Total Infetados": 288,
+    "Recuperados": 226,
+    "Óbitos": 16,
+    "Total Ativos": 46
+  },
+  {
+    "DATA": "15-07",
+    "Total Infetados": 292,
+    "Recuperados": 226,
+    "Óbitos": 16,
+    "Total Ativos": 50
+  },
+  {
+    "DATA": "17-07",
+    "Total Infetados": 295,
+    "Recuperados": 227,
+    "Óbitos": 16,
+    "Total Ativos": 52
+  },
+  {
+    "DATA": "24-07",
+    "Total Infetados": 298,
+    "Recuperados": 229,
+    "Óbitos": 16,
+    "Total Ativos": 53
+  },
+  {
+    "DATA": "31-07",
+    "Total Infetados": 301,
+    "Recuperados": 250,
+    "Óbitos": 16,
+    "Total Ativos": 35
+  },
+  {
+    "DATA": "07-08",
+    "Total Infetados": 305,
+    "Recuperados": 262,
+    "Óbitos": 16,
+    "Total Ativos": 27
+  },
+  {
+    "DATA": "12-08",
+    "Total Infetados": 307,
+    "Recuperados": 268,
+    "Óbitos": 16,
+    "Total Ativos": 23
+  },
+  {
+    "DATA": "21-08",
+    "Total Infetados": 307,
+    "Recuperados": 272,
+    "Óbitos": 16,
+    "Total Ativos": 19
+  },
+  {
+    "DATA": "21-08",
+    "Total Infetados": 314,
+    "Recuperados": 278,
+    "Óbitos": 16,
+    "Total Ativos": 20
+  },
+  {
+    "DATA": "28-08",
+    "Total Infetados": 318,
+    "Recuperados": 286,
+    "Óbitos": 16,
+    "Total Ativos": 16
+  },
+  {
+    "DATA": "04-09",
+    "Total Infetados": 329,
+    "Recuperados": 289,
+    "Óbitos": 16,
+    "Total Ativos": 24
+  },
+  {
+    "DATA": "07-09",
+    "Total Infetados": 337,
+    "Recuperados": 290,
+    "Óbitos": 16,
+    "Total Ativos": 31
+  },
+  {
+    "DATA": "11-09",
+    "Total Infetados": 346,
+    "Recuperados": 296,
+    "Óbitos": 16,
+    "Total Ativos": 34
+  },
+  {
+    "DATA": "18-09",
+    "Total Infetados": 397,
+    "Recuperados": 301,
+    "Óbitos": 17,
+    "Total Ativos": 79
+  },
+  {
+    "DATA": "25-09",
+    "Total Infetados": 424,
+    "Recuperados": 304,
+    "Óbitos": 17,
+    "Total Ativos": 103
+  },
+  {
+    "DATA": "02-10",
+    "Total Infetados": 448,
+    "Recuperados": 322,
+    "Óbitos": 18,
+    "Total Ativos": 108
+  },
+  {
+    "DATA": "09-10",
+    "Total Infetados": 513,
+    "Recuperados": 333,
+    "Óbitos": 19,
+    "Total Ativos": 161
+  },
+  {
+    "DATA": "14-10",
+    "Total Infetados": 595,
+    "Recuperados": 366,
+    "Óbitos": 20,
+    "Total Ativos": 209
+  },
+  {
+    "DATA": "16-10",
+    "Total Infetados": 628,
+    "Recuperados": 372,
+    "Óbitos": 20,
+    "Total Ativos": 236
+  },
+  {
+    "DATA": "21-10",
+    "Total Infetados": 783,
+    "Recuperados": 419,
+    "Óbitos": 22,
+    "Total Ativos": 342
+  },
+  {
+    "DATA": "23-10",
+    "Total Infetados": 867,
+    "Recuperados": 424,
+    "Óbitos": 25,
+    "Total Ativos": 418
+  },
+  {
+    "DATA": "29-10",
+    "Total Infetados": 1115,
+    "Recuperados": 465,
+    "Óbitos": 30,
+    "Total Ativos": 620
+  },
+  {
+    "DATA": "03-11",
+    "Total Infetados": 1469,
+    "Recuperados": 625,
+    "Óbitos": 34,
+    "Total Ativos": 810
+  },
+  {
+    "DATA": "06-11",
+    "Total Infetados": 1646,
+    "Recuperados": 726,
+    "Óbitos": 37,
+    "Total Ativos": 883
+  },
+  {
+    "DATA": "13-18",
+    "Total Infetados": 2292,
+    "Recuperados": 960,
+    "Óbitos": 43,
+    "Total Ativos": 1289
+  },
+  {
+    "DATA": "18-11",
+    "Total Infetados": 2586,
+    "Recuperados": 1439,
+    "Óbitos": 54,
+    "Total Ativos": 1093
+  },
+  {
+    "DATA": "20-11",
+    "Total Infetados": 2728,
+    "Recuperados": 1448,
+    "Óbitos": 60,
+    "Total Ativos": 1220
+  },
+  {
+    "DATA": "24-11",
+    "Total Infetados": 2954,
+    "Recuperados": 1628,
+    "Óbitos": 70,
+    "Total Ativos": 1256
+  },
+  {
+    "DATA": "27-11",
+    "Total Infetados": 3209,
+    "Recuperados": 1772,
+    "Óbitos": 73,
+    "Total Ativos": 1364
+  },
+  {
+    "DATA": "01-12",
+    "Total Infetados": 3357,
+    "Recuperados": 1814,
+    "Óbitos": 80,
+    "Total Ativos": 1463
+  },
+  {
+    "DATA": "04-12",
+    "Total Infetados": 3462,
+    "Recuperados": 2543,
+    "Óbitos": 86,
+    "Total Ativos": 833
+  },
+  {
+    "DATA": "08-12",
+    "Total Infetados": 3721,
+    "Recuperados": 2763,
+    "Óbitos": 91,
+    "Total Ativos": 867
+  },
+  {
+    "DATA": "11-12",
+    "Total Infetados": 3951,
+    "Recuperados": 2908,
+    "Óbitos": 99,
+    "Total Ativos": 944
+  },
+  {
+    "DATA": "16-12",
+    "Total Infetados": 4142,
+    "Recuperados": 3115,
+    "Óbitos": 107,
+    "Total Ativos": 920
+  },
+  {
+    "DATA": "18-12",
+    "Total Infetados": 4394,
+    "Recuperados": 3382,
+    "Óbitos": 113,
+    "Total Ativos": 899
+  },
+  {
+    "DATA": "22-12",
+    "Total Infetados": 4570,
+    "Recuperados": 3546,
+    "Óbitos": 121,
+    "Total Ativos": 903
+  },
+  {
+    "DATA": "28-12",
+    "Total Infetados": 4850,
+    "Recuperados": 3874,
+    "Óbitos": 131,
+    "Total Ativos": 845
+  },
+  {
+    "DATA": "06-01",
+    "Total Infetados": 5932,
+    "Recuperados": 4275,
+    "Óbitos": 149,
+    "Total Ativos": 1508
+  },
+  {
+    "DATA": "08-01",
+    "Total Infetados": 6510,
+    "Recuperados": 4470,
+    "Óbitos": 150,
+    "Total Ativos": 1890
+  },
+  {
+    "DATA": "12-01",
+    "Total Infetados": 7005,
+    "Recuperados": 4522,
+    "Óbitos": 167,
+    "Total Ativos": 2316
+  },
+  {
+    "DATA": "15-01",
+    "Total Infetados": 7636,
+    "Recuperados": 4626,
+    "Óbitos": 180,
+    "Total Ativos": 2830
+  },
+  {
+    "DATA": "19-01",
+    "Total Infetados": 8202,
+    "Recuperados": 4793,
+    "Óbitos": 194,
+    "Total Ativos": 3215
+  },
+  {
+    "DATA": "25-01",
+    "Total Infetados": 9528,
+    "Recuperados": 5421,
+    "Óbitos": 218,
+    "Total Ativos": 3889
+  },
+  {
+    "DATA": "01-02",
+    "Total Infetados": 10699,
+    "Recuperados": 6598,
+    "Óbitos": 244,
+    "Total Ativos": 3857
+  },
+  {
+    "DATA": "05-02",
+    "Total Infetados": 11102,
+    "Recuperados": 7230,
+    "Óbitos": 265,
+    "Total Ativos": 3607
+  },
+  {
+    "DATA": "09-02",
+    "Total Infetados": 11284,
+    "Recuperados": 7920,
+    "Óbitos": 288,
+    "Total Ativos": 3076
+  },
+  {
+    "DATA": "12-02",
+    "Total Infetados": 11393,
+    "Recuperados": 9041,
+    "Óbitos": 295,
+    "Total Ativos": 2057
+  },
+  {
+    "DATA": "16-02",
+    "Total Infetados": 11480,
+    "Recuperados": 9980,
+    "Óbitos": 303,
+    "Total Ativos": 1197
+  },
+  {
+    "DATA": "19-02",
+    "Total Infetados": 11588,
+    "Recuperados": 10703,
+    "Óbitos": 308,
+    "Total Ativos": 577
+  },
+  {
+    "DATA": "23-02",
+    "Total Infetados": 11644,
+    "Recuperados": 10879,
+    "Óbitos": 315,
+    "Total Ativos": 450
+  },
+  {
+    "DATA": "26-02",
+    "Total Infetados": 11675,
+    "Recuperados": 11103,
+    "Óbitos": 317,
+    "Total Ativos": 255
+  },
+  {
+    "DATA": "02-03",
+    "Total Infetados": 11694,
+    "Recuperados": 11194,
+    "Óbitos": 323,
+    "Total Ativos": 177
+  },
+  {
+    "DATA": "05-03",
+    "Total Infetados": 11711,
+    "Recuperados": 11267,
+    "Óbitos": 326,
+    "Total Ativos": 118
+  },
+  {
+    "DATA": "09-03",
+    "Total Infetados": 11732,
+    "Recuperados": 11326,
+    "Óbitos": 330,
+    "Total Ativos": 76
+  },
+  {
+    "DATA": "12-03",
+    "Total Infetados": 11757,
+    "Recuperados": 11338,
+    "Óbitos": 333,
+    "Total Ativos": 86
+  },
+  {
+    "DATA": "17-03",
+    "Total Infetados": 11773,
+    "Recuperados": 11355,
+    "Óbitos": 334,
+    "Total Ativos": 84
+  },
+  {
+    "DATA": "23-03",
+    "Total Infetados": 11799,
+    "Recuperados": 11398,
+    "Óbitos": 337,
+    "Total Ativos": 64
+  },
+  {
+    "DATA": "26-03",
+    "Total Infetados": 11808,
+    "Recuperados": 11420,
+    "Óbitos": 338,
+    "Total Ativos": 50
+  },
+  {
+    "DATA": "30-03",
+    "Total Infetados": 11808,
+    "Recuperados": 11433,
+    "Óbitos": 339,
+    "Total Ativos": 36
+  },
+  {
+    "DATA": "13-04",
+    "Total Infetados": 11824,
+    "Recuperados": 11464,
+    "Óbitos": 340,
+    "Total Ativos": 20
+  },
+  {
+    "DATA": "16-04",
+    "Total Infetados": 11834,
+    "Recuperados": 11465,
+    "Óbitos": 340,
+    "Total Ativos": 29
+  },
+  {
+    "DATA": "24-04",
+    "Total Infetados": 11860,
+    "Recuperados": 11478,
+    "Óbitos": 341,
+    "Total Ativos": 40
+  },
+  {
+    "DATA": "30-04",
+    "Total Infetados": 11862,
+    "Recuperados": 11492,
+    "Óbitos": 341,
+    "Total Ativos": 28
+  },
+  {
+    "DATA": "07-05",
+    "Total Infetados": 11871,
+    "Recuperados": 11513,
+    "Óbitos": 341,
+    "Total Ativos": 16
+  },
+  {
+    "DATA": "11-05",
+    "Total Infetados": 11874,
+    "Recuperados": 11516,
+    "Óbitos": 342,
+    "Total Ativos": 15
+  },
+  {
+    "DATA": "14-05",
+    "Total Infetados": 11882,
+    "Recuperados": 11517,
+    "Óbitos": 342,
+    "Total Ativos": 22
+  },
+  {
+    "DATA": "18-05",
+    "Total Infetados": 11906,
+    "Recuperados": 11519,
+    "Óbitos": 342,
+    "Total Ativos": 44
+  },
+  {
+    "DATA": "21-05",
+    "Total Infetados": 11924,
+    "Recuperados": 11526,
+    "Óbitos": 342,
+    "Total Ativos": 55
+  },
+  {
+    "DATA": "25-05",
+    "Total Infetados": 11932,
+    "Recuperados": 11537,
+    "Óbitos": 343,
+    "Total Ativos": 51
+  },
+  {
+    "DATA": "02-06",
+    "Total Infetados": 11949,
+    "Recuperados": 11563,
+    "Óbitos": 344,
+    "Total Ativos": 41
+  },
+  {
+    "DATA": "09-06",
+    "Total Infetados": 11962,
+    "Recuperados": 11585,
+    "Óbitos": 345,
+    "Total Ativos": 31
+  },
+  {
+    "DATA": "15-06",
+    "Total Infetados": 12001,
+    "Recuperados": 11606,
+    "Óbitos": 345,
+    "Total Ativos": 49
+  },
+  {
+    "DATA": "18-06",
+    "Total Infetados": 12017,
+    "Recuperados": 11611,
+    "Óbitos": 345,
+    "Total Ativos": 60
+  },
+  {
+    "DATA": "22-06",
+    "Total Infetados": 12033,
+    "Recuperados": 11627,
+    "Óbitos": 345,
+    "Total Ativos": 60
+  },
+  {
+    "DATA": "29-06",
+    "Total Infetados": 12058,
+    "Recuperados": 11646,
+    "Óbitos": 345,
+    "Total Ativos": 66
+  },
+  {
+    "DATA": "06-07",
+    "Total Infetados": 12199,
+    "Recuperados": 11680,
+    "Óbitos": 345,
+    "Total Ativos": 173
+  },
+  {
+    "DATA": "15-07-2021",
+    "Total Infetados": 12345,
+    "Recuperados": 11761,
+    "Óbitos": 346,
+    "Total Ativos": 237
+  },
+  {
+    "DATA": "20-07-2021",
+    "Total Infetados": 12444,
+    "Recuperados": 11844,
+    "Óbitos": 346,
+    "Total Ativos": 253
+  },
+  {
+    "DATA": "23-07-2021",
+    "Total Infetados": 12502,
+    "Recuperados": 11915,
+    "Óbitos": 346,
+    "Total Ativos": 240
+  },
+  {
+    "DATA": "27-07-2021",
+    "Total Infetados": 12546,
+    "Recuperados": 12004,
+    "Óbitos": 347,
+    "Total Ativos": 194
+  },
+  {
+    "DATA": "30-07-2021",
+    "Total Infetados": 12598,
+    "Recuperados": 12044,
+    "Óbitos": 347,
+    "Total Ativos": 206
+  },
+  {
+    "DATA": "03-08-2021",
+    "Total Infetados": 12640,
+    "Recuperados": 12118,
+    "Óbitos": 347,
+    "Total Ativos": 174
+  },
+  {
+    "DATA": "10-08-2021",
+    "Total Infetados": 12704,
+    "Recuperados": 12246,
+    "Óbitos": 347,
+    "Total Ativos": 110
+  },
+  {
+    "DATA": "17-08-2021",
+    "Total Infetados": 12814,
+    "Recuperados": 12323,
+    "Óbitos": 347,
+    "Total Ativos": 143
+  },
+  {
+    "DATA": "20-08-2021",
+    "Total Infetados": 12865,
+    "Recuperados": 12356,
+    "Óbitos": 347,
+    "Total Ativos": 161
+  },
+  {
+    "DATA": "24-08-2021",
+    "Total Infetados": 12930,
+    "Recuperados": 12398,
+    "Óbitos": 347,
+    "Total Ativos": 184
+  },
+  {
+    "DATA": "01-09-2021",
+    "Total Infetados": 13067,
+    "Recuperados": 12502,
+    "Óbitos": 349,
+    "Total Ativos": 215
+  },
+  {
+    "DATA": "07-09-2021",
+    "Total Infetados": 13160,
+    "Recuperados": 12628,
+    "Óbitos": 351,
+    "Total Ativos": 180
+  },
+  {
+    "DATA": "10-09-2021",
+    "Total Infetados": 13229,
+    "Recuperados": 12671,
+    "Óbitos": 352,
+    "Total Ativos": 205
+  },
+  {
+    "DATA": "14-09-2021",
+    "Total Infetados": 13298,
+    "Recuperados": 12729,
+    "Óbitos": 354,
+    "Total Ativos": 214
+  },
+  {
+    "DATA": "21-09-2021",
+    "Total Infetados": 13367,
+    "Recuperados": 12829,
+    "Óbitos": 356,
+    "Total Ativos": 181
+  },
+  {
+    "DATA": "27-09-2021",
+    "Total Infetados": 13382,
+    "Recuperados": 12857,
+    "Óbitos": 357,
+    "Total Ativos": 167
+  },
+  {
+    "DATA": "29-09-2021",
+    "Total Infetados": 13409,
+    "Recuperados": 12917,
+    "Óbitos": 357,
+    "Total Ativos": 134
+  },
+  {
+    "DATA": "01-10-2021",
+    "Total Infetados": 13426,
+    "Recuperados": 12965,
+    "Óbitos": 357,
+    "Total Ativos": 102
+  },
+  {
+    "DATA": "04-10-2021",
+    "Total Infetados": 13440,
+    "Recuperados": 12992,
+    "Óbitos": 357,
+    "Total Ativos": 90
+  },
+  {
+    "DATA": "12-10-2021",
+    "Total Infetados": 13515,
+    "Recuperados": 13048,
+    "Óbitos": 357,
+    "Total Ativos": 109
+  },
+  {
+    "DATA": "15-10-2021",
+    "Total Infetados": 13569,
+    "Recuperados": 13076,
+    "Óbitos": 359,
+    "Total Ativos": 133
+  },
+  {
+    "DATA": "19-10-2021",
+    "Total Infetados": 13628,
+    "Recuperados": 13090,
+    "Óbitos": 360,
+    "Total Ativos": 177
+  },
+  {
+    "DATA": "22-10-2021",
+    "Total Infetados": 13681,
+    "Recuperados": 13131,
+    "Óbitos": 361,
+    "Total Ativos": 188
+  },
+  {
+    "DATA": "26-10-2021",
+    "Total Infetados": 13734,
+    "Recuperados": 13169,
+    "Óbitos": 361,
+    "Total Ativos": 203
+  },
+  {
+    "DATA": "09-11-2021",
+    "Total Infetados": 13928,
+    "Recuperados": 13364,
+    "Óbitos": 367,
+    "Total Ativos": 196
+  },
+  {
+    "DATA": "17-11-2021",
+    "Total Infetados": 14095,
+    "Recuperados": 13516,
+    "Óbitos": 370,
+    "Total Ativos": 208
+  },
+  {
+    "DATA": "19-11-2021",
+    "Total Infetados": 14146,
+    "Recuperados": 13575,
+    "Óbitos": 371,
+    "Total Ativos": 199
+  },
+  {
+    "DATA": "23-11-2021",
+    "Total Infetados": 14241,
+    "Recuperados": 13668,
+    "Óbitos": 371,
+    "Total Ativos": 201
+  },
+  {
+    "DATA": "26-11-2021",
+    "Total Infetados": 14364,
+    "Recuperados": 13692,
+    "Óbitos": 372,
+    "Total Ativos": 299
+  },
+  {
+    "DATA": "30-11-2021",
+    "Total Infetados": 14553,
+    "Recuperados": 13777,
+    "Óbitos": 373,
+    "Total Ativos": 402
+  },
+  {
+    "DATA": "07-12-2021",
+    "Total Infetados": 15109,
+    "Recuperados": 14000,
+    "Óbitos": 375,
+    "Total Ativos": 733
+  },
+  {
+    "DATA": "10-12-2021",
+    "Total Infetados": 15411,
+    "Recuperados": 14159,
+    "Óbitos": 376,
+    "Total Ativos": 875
+  },
+  {
+    "DATA": "15-12-2021",
+    "Total Infetados": 15751,
+    "Recuperados": 14449,
+    "Óbitos": 378,
+    "Total Ativos": 923
+  },
+  {
+    "DATA": "22-12-2021",
+    "Total Infetados": 16200,
+    "Recuperados": 15034,
+    "Óbitos": 381,
+    "Total Ativos": 784
+  },
+  {
+    "DATA": "29-12-2021",
+    "Total Infetados": 16848,
+    "Recuperados": 15583,
+    "Óbitos": 386,
+    "Total Ativos": 878
+  },
+  {
+    "DATA": "30-12-2021",
+    "Total Infetados": 17096,
+    "Recuperados": 15653,
+    "Óbitos": 386,
+    "Total Ativos": 1056
+  },
+  {
+    "DATA": "05-01-2022",
+    "Total Infetados": 17837,
+    "Recuperados": 15686,
+    "Óbitos": 388,
+    "Total Ativos": 1762
+  },
+  {
+    "DATA": "11-01-2022",
+    "Total Infetados": 19477,
+    "Recuperados": 16908,
+    "Óbitos": 390,
+    "Total Ativos": 2178
+  },
+  {
+    "DATA": "19-01-2022",
+    "Total Infetados": 22322,
+    "Recuperados": 19440,
+    "Óbitos": 394,
+    "Total Ativos": 2487
+  },
+  {
+    "DATA": "21-01-2022",
+    "Total Infetados": 23532,
+    "Recuperados": 20033,
+    "Óbitos": 394,
+    "Total Ativos": 3104
+  },
+  {
+    "DATA": "04-02-2022",
+    "Total Infetados": 30059,
+    "Recuperados": 25760,
+    "Óbitos": 398,
+    "Total Ativos": 3900
+  }
+ ]
